@@ -117,10 +117,7 @@ Dashboard snapshot available in this repository:
 
 - `outputs/Airbnb - Tableau Dashbored.png`
 
-
-```markdown
-![Airbnb Tableau Dashboard](outputs/airbnb-dashboard.png)
-```
+![Airbnb Tableau Dashboard](https://raw.githubusercontent.com/KaluOkorie/Airbnb---Tableau-Dashbored/master/outputs/airbnb-dashboard.png)
 
 ## Project Value
 
